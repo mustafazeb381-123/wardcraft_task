@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403282253186",
+    "project_id": "wondercarft",
+    "storage_bucket": "wondercarft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403282253186:android:5bd6203204e7b29403ab9b",
+        "android_client_info": {
+          "package_name": "com.wondercarft_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNOKDZ0lmD70VhKTOlqru9Usva0Tg9QYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
